@@ -1,19 +1,23 @@
 
 # Nutrition Facts Label
-The project of Master Degree in NIDA
-Documentation for data science and other people interest this project
+The project base on [Open Food Fact](https://github.com/openfoodfacts) in python language and optimization image pre-proceesing before use OCR processing.
 
 [![Watch the video](https://www.loom.com/share/4c4eae267b4a4f3bb08a2ae244a0ee65)](https://www.loom.com/share/4c4eae267b4a4f3bb08a2ae244a0ee65)
 
-## Structure
-```
-
-```
+## Package
+* tensorflow
+* opencv-contrib-python
+* pillow
+* numpy
+* pytesseract
+* django
+* easydict
 
 ## Technical
 * Table Detection
 * Text Detection & Extraction
-* OCR Image Processing
+* Image Pre-Processing
+* Image Processing with Tesseract OCR
 * Image Post-Processing
 
 ## Preqisition

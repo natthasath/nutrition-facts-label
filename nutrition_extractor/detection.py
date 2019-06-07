@@ -14,7 +14,7 @@ from spacial_map import *
 
 def load_model():
     """
-    load trained weights for the model
+    load trained weight for model
     """    
     global obj
     obj = NutritionTableDetector()
@@ -23,7 +23,7 @@ def load_model():
 def detect(img_path, debug):
     # Start time
     start_time = time.time()
-    # # Make table detector class and predict score
+    # Make table detector class and predict score
     image = cv2.imread(img_path)
     boxes, scores, classes, num  = obj.get_classification(image)
     # Get Dimension of image
