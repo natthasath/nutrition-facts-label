@@ -2,7 +2,7 @@
 # Nutrition Facts Label
 The project base on [Open Food Fact](https://github.com/openfoodfacts) in python language and optimization image pre-proceesing before use OCR processing.
 
-[![Watch the video](https://www.loom.com/share/4c4eae267b4a4f3bb08a2ae244a0ee65)](https://www.loom.com/share/4c4eae267b4a4f3bb08a2ae244a0ee65)
+[![Watch the video]](https://www.loom.com/share/4c4eae267b4a4f3bb08a2ae244a0ee65)
 
 ## Package
 * tensorflow
